@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "prospection-municipalites",
-      "description": "Prépare et conduit la prospection des municipalités françaises : cibler la bonne commune, trouver le bon interlocuteur, écrire l'approche.",
+      "description": "Prépare et conduit la prospection des collectivités françaises et belges : cibler la bonne commune, trouver le bon interlocuteur, écrire l'approche.",
       "author": {
         "name": "apphero",
         "email": "jerome@apphero.tech"
@@ -18,9 +18,10 @@
       "category": "sales",
       "keywords": [
         "prospection",
-        "collectivites",
-        "municipalites",
-        "france"
+        "collectivités",
+        "communes",
+        "france",
+        "belgique"
       ],
       "source": "./plugins/prospection-municipalites"
     }

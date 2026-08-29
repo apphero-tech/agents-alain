@@ -1,8 +1,8 @@
 {
   "name": "prospection-municipalites",
-  "displayName": "Prospection des municipalités",
-  "version": "0.1.0",
-  "description": "L'agent de prospection d'Alain pour les collectivités françaises.",
+  "displayName": "Prospection des collectivités",
+  "version": "0.2.0",
+  "description": "L'agent de prospection d'Alain pour les collectivités françaises et belges.",
   "author": {
     "name": "apphero",
     "email": "jerome@apphero.tech",
