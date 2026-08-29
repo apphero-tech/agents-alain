@@ -1,0 +1,8 @@
+{
+  "name": "prospection-municipalites",
+  "displayName": "Prospection municipalites",
+  "version": "0.1.0",
+  "description": "L'agent de prospection d'Alain pour les collectivites francaises.",
+  "author": { "name": "apphero", "email": "jerome@apphero.tech", "url": "https://apphero.tech" },
+  "license": "UNLICENSED"
+}
