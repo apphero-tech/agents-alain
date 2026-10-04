@@ -1,68 +1,113 @@
 ---
 name: prospection-municipalites
-description: Prépare et conduit la prospection des collectivités françaises et belges - choisir la commune, identifier le bon interlocuteur, trouver l'accroche locale et écrire l'approche. À utiliser dès qu'il s'agit de cibler, qualifier, contacter ou relancer une commune, une intercommunalité ou une intercommunale.
+description: Prépare et conduit la prospection des municipalités du Québec (marché prioritaire) et, au besoin, des communes belges - choisir la municipalité, identifier le bon interlocuteur, trouver l'accroche locale et écrire l'approche. À utiliser dès qu'il s'agit de cibler, qualifier, contacter ou relancer une municipalité, une MRC, une régie ou une commune.
 ---
 
-# Prospection des collectivités — France et Belgique
+# Prospection des municipalités — Québec d'abord
 
-Tu prospectes des collectivités, pas des entreprises. Le cycle est lent, la
+Tu prospectes des municipalités, pas des entreprises. Le cycle est lent, la
 décision est collégiale et publique, et tout ce qu'il faut savoir pour bien
 écrire est déjà en ligne. Une approche qui cite un fait local précis passe ;
 une approche générique finit au classement sans réponse.
 
-**Premier réflexe : demander le pays.** La France et la Belgique n'ont ni les
-mêmes titres, ni le même calendrier, ni la même répartition des compétences.
-Écrire à un « DGS » en Belgique ou à un « directeur général » en France
-signale immédiatement qu'on n'a pas fait le travail.
+**Les marchés d'apphero, dans l'ordre :** États-Unis, puis le Canada — le
+**Québec en premier**, le reste du Canada ensuite. La **Belgique** est suivie
+sans relance active : on y écrit quand une occasion précise se présente. La
+**France n'est plus prospectée** : on ne répond qu'aux acheteurs français qui
+viennent à nous. Si on te demande de cibler une commune française, rappelle
+cette règle avant toute chose.
 
-| | France | Belgique |
+**Premier réflexe : vérifier la juridiction.** Le Québec et la Belgique n'ont
+ni les mêmes titres, ni le même calendrier, ni la même répartition des
+compétences.
+
+| | Québec | Belgique |
 |---|---|---|
-| L'élu | Le maire | Le **bourgmestre** |
-| L'exécutif | Le maire et ses adjoints | Le **collège communal** (bourgmestre + échevins) |
-| L'assemblée | Le conseil municipal | Le **conseil communal** |
-| Le patron de l'administration | Le **DGS** (directeur général des services) | Le **directeur général** — *algemeen directeur* en Flandre |
-| L'argent | Le DGA finances / le comptable public | Le **directeur financier** |
-| L'échelon au-dessus | L'**EPCI** (communauté de communes, d'agglo, métropole) | L'**intercommunale**, et la province |
-| Le budget se vote | Avant le 15 avril, pour l'année en cours | En fin d'année civile, pour l'année suivante |
+| L'élu | Le **maire** | Le **bourgmestre** |
+| L'exécutif | Le conseil ; un **comité exécutif** dans les grandes villes | Le **collège communal** (bourgmestre + échevins) |
+| L'assemblée | Le **conseil municipal**, en séance publique chaque mois | Le **conseil communal** |
+| Le patron de l'administration | Le **directeur général** — souvent aussi **greffier-trésorier** dans les petites municipalités | Le **directeur général** — *algemeen directeur* en Flandre |
+| L'échelon au-dessus | La **MRC** (dirigée par un préfet), les régies intermunicipales, les communautés métropolitaines | L'**intercommunale**, et la province |
+| Le budget se vote | En fin d'année, pour l'année civile suivante, avec le programme triennal d'immobilisations | En fin d'année civile, pour l'année suivante |
 
-## France
+## Québec
 
 ### À qui on écrit
 
-L'erreur la plus courante est d'écrire au maire. Il est élu, souvent à temps
-partiel dans les petites communes, et ne traite pas les sollicitations
-commerciales.
+Le maire est élu, visible, et rarement le bon destinataire d'une première
+approche commerciale. On écrit à l'administration.
 
-| Taille de la commune | À qui on écrit |
+| Taille de la municipalité | À qui on écrit |
 |---|---|
-| Moins de 2 000 habitants | Le secrétaire de mairie — il fait tout, et il lit tout |
-| 2 000 à 20 000 | Le DGS |
-| Plus de 20 000 | Le chef du service concerné, avec le DGS en copie |
-| Sujet transversal (numérique, transition) | L'adjoint délégué à la thématique |
+| Moins de 2 000 habitants | Le **directeur général et greffier-trésorier** — il fait tout, et il lit tout |
+| 2 000 à 20 000 | Le **directeur général** |
+| Plus de 20 000 | Le **directeur du service concerné** (loisirs, technologies, travaux publics, greffe), avec le DG en copie |
+| Sujet régional (matières résiduelles, évaluation, aménagement) | Le **directeur général de la MRC** |
+| Sujet politique ou transversal | Le **conseiller municipal responsable du dossier**, en copie |
 
-Au-dessus de la commune il y a l'**EPCI**. Beaucoup de compétences y ont été
-transférées — déchets, eau, urbanisme, mobilité, souvent le numérique. Avant
-d'écrire à une commune, vérifie que la compétence n'est pas portée par l'EPCI :
-sinon l'interlocuteur est le bon, mais il n'a pas la main.
+**Vérifie l'échelon avant d'écrire.** Beaucoup de services sont portés par la
+MRC, une régie intermunicipale ou une agglomération (Montréal, Québec,
+Longueuil, entre autres). Le bon interlocuteur n'a pas toujours la main.
 
 ### Le calendrier
 
-- **Débat d'orientation budgétaire** — février / mars, c'est là que les
-  arbitrages se font. Une approche arrive utilement en janvier.
-- **Vote du budget primitif** — avant le 15 avril. Après, l'année est écrite.
-- **Juillet-août** — mairie au ralenti, ne rien lancer.
-- **Année post-électorale** — les nouvelles équipes veulent marquer leur
-  mandat. La meilleure fenêtre du cycle de six ans.
+- **Le budget et le programme triennal d'immobilisations se préparent à
+  l'automne** et s'adoptent en fin d'année, pour l'année civile suivante. Une
+  approche arrive utilement **entre la fin août et octobre**, quand les
+  demandes des services remontent.
+- **Le conseil siège chaque mois, en public.** Une résolution est le signal
+  qu'une décision est prise ; un sujet reporté est une porte ouverte.
+- **L'été** — services au ralenti en juillet, sauf les loisirs, en pleine
+  saison : ne rien lancer.
+- **Élections municipales tous les quatre ans, le premier dimanche de
+  novembre.** Les conseils élus en novembre 2025 préparent cet automne leur
+  premier budget complet de mandat : la meilleure fenêtre du cycle.
+
+### Les contrats
+
+Trois zones, dont les seuils sont fixés par règlement et **indexés : vérifie
+le montant en vigueur avant de l'annoncer, ne le cite jamais de mémoire.**
+
+- **Sous 25 000 $** — de gré à gré, la voie la plus courte pour un premier
+  projet.
+- **Entre 25 000 $ et le seuil d'appel d'offres public** — selon le
+  **règlement de gestion contractuelle** de la municipalité, publié sur son
+  site : gré à gré possible, ou invitation écrite d'au moins deux fournisseurs.
+  Lis ce règlement avant de proposer un montant.
+- **Au-dessus du seuil** — appel d'offres public sur SEAO.
+
+Deux règles qui ne se discutent pas :
+
+- **Pendant un appel d'offres, on ne contacte personne** sauf la personne
+  désignée dans les documents. Une approche commerciale en cours de processus
+  peut disqualifier.
+- **Démarcher un élu ou un fonctionnaire municipal peut être du lobbyisme**
+  au sens de la loi québécoise. Avant toute campagne, vérifie l'obligation
+  d'inscription au registre des lobbyistes (Carrefour Lobby Québec) — et ne
+  l'improvise jamais.
+
+### Langue et signature
+
+On écrit **en français** à toute municipalité du Québec, y compris quand
+l'interlocuteur répond en anglais. Signer avec le numéro québécois :
+**+1 (438) 462-9383**.
 
 ### Où se documenter
 
-Les **comptes rendus de conseil municipal** sur le site de la commune — ils
-disent ce qui a été voté, reporté ou refusé. Le budget primitif et le compte
-administratif, publiés en ligne. data.gouv.fr et l'annuaire des collectivités
-pour la taille, l'EPCI et les compétences. La presse quotidienne régionale, qui
-couvre les conseils. Le projet de mandat quand l'équipe en a publié un.
+- Le site de la municipalité : **procès-verbaux des séances du conseil**,
+  budget, programme triennal, règlement de gestion contractuelle.
+- **SEAO**, pour les appels d'offres passés et la liste des contrats octroyés :
+  qui fournit quoi aujourd'hui, et quand le contrat arrive à échéance.
+- Le **Répertoire des municipalités** du ministère des Affaires municipales,
+  pour la population, la MRC et la désignation.
+- La presse régionale, qui couvre les séances du conseil.
+- La FQM, l'UMQ et l'ADMQ, pour les enjeux du moment et les congrès où les
+  directeurs généraux se rencontrent.
 
-## Belgique
+## Belgique — veille passive
+
+On n'y prospecte pas en continu : on écrit quand une occasion précise se
+présente. Les règles ci-dessous valent pour ce cas.
 
 ### À qui on écrit
 
@@ -90,7 +135,7 @@ mauvaise volonté, c'est la règle linguistique.
 ### Le calendrier
 
 - **Le budget se vote en fin d'année civile**, généralement entre octobre et
-  décembre, pour l'exercice suivant. C'est l'inverse de la France : une
+  décembre, pour l'exercice suivant. Même logique qu'au Québec : une
   approche arrive utilement en septembre, pas au printemps.
 - **Modifications budgétaires** en cours d'année — la fenêtre de rattrapage
   pour un projet qui n'était pas au budget initial.
@@ -128,8 +173,8 @@ Structure qui fonctionne, dans cet ordre :
 1. **Le fait local** — une phrase qui montre qu'on a lu quelque chose de précis
    sur cette commune-là. Jamais un compliment générique.
 2. **Le problème** tel qu'eux le formulent, dans leur vocabulaire
-   (« administrés » ou « citoyens », pas « clients » ; « service », pas
-   « produit »).
+   (« citoyens », pas « clients » ; « requêtes », « service aux
+   citoyens », pas « tickets » ni « produit »).
 3. **Ce qu'on fait**, en deux lignes, sans jargon.
 4. **Une demande minuscule** — vingt minutes, pas une démonstration.
 
@@ -138,14 +183,14 @@ Règles :
 - Vouvoiement, phrases courtes, aucune formule commerciale.
 - Une seule demande par message.
 - Jamais d'envoi en masse : une commune reconnaît un publipostage à la première
-  ligne, et le milieu se parle beaucoup — dans les deux pays.
+  ligne, et le milieu se parle beaucoup — au Québec comme en Belgique.
 - Ne jamais promettre une subvention, un financement ou une conformité
   réglementaire sans source.
 
 ## Relancer
 
 Deux relances au maximum, à dix jours d'intervalle, et chacune apporte quelque
-chose de neuf — un exemple d'une commune comparable, une échéance, un document.
+chose de neuf — un exemple d'une municipalité comparable, une échéance, un document.
 Une relance qui dit seulement « je me permets de revenir vers vous » brûle le
 contact.
 
@@ -153,11 +198,14 @@ contact.
 
 - Inventer un chiffre, un nom d'élu ou une délibération. Si le fait n'est pas
   vérifié, il ne sort pas.
+- Prospecter une commune française. La France n'est plus un marché actif.
 - Écrire au maire ou au bourgmestre en première approche, sauf dans une très
-  petite commune.
-- Mélanger les vocabulaires des deux pays. « DGS » n'existe pas en Belgique,
-  « échevin » n'existe pas en France.
+  petite municipalité.
+- Contacter une municipalité pendant un appel d'offres en cours, ailleurs que
+  par la personne désignée.
+- Mélanger les vocabulaires. « Échevin » n'existe pas au Québec, « MRC »
+  n'existe pas en Belgique.
 - Écrire en français à une commune flamande.
-- Traiter une intercommunalité française ou une intercommunale belge comme une
-  grosse commune : la gouvernance est différente, le président n'est ni maire
-  ni bourgmestre.
+- Traiter une MRC ou une intercommunale belge comme une grosse municipalité :
+  la gouvernance est différente, le préfet ou le président n'est ni maire ni
+  bourgmestre.
